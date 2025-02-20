@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "# Hello there, I'm Tadesse Birara Akele!"
+title: "👋 Hello there, I'm Tadesse Birara Akele!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,23 +11,23 @@ I'm a Lecturer and the Director of the Electronic Learning Management Division a
 
 I'm currently leading initiatives to enhance online teaching and learning experiences for instructors and students.
 
-## Selected Experience
+ Selected Experience
 
-### 🌟 Open Source Contributions
+🌟 Open Source Contributions
 - I have contributed to the eSHE (e-learning for Strengthening Higher Education) initiative, collaborating with the Ministry of Education, Arizona State University, and the Mastercard Foundation.
 
-### 🔄 Research and Publications
+🔄 Research and Publications
 - I have published several papers in peer-reviewed journals, including works on hybrid encryption algorithms and deep learning-based emotion classification for Amharic texts.
 
 Feel free to reach out if you'd like to discuss e-learning solutions or cybersecurity!
 
-## Professional Experience
+Professional Experience
 - Currently, I serve as the Electronic Learning Management Division Directorate Director at Wollo University, where I coordinate training sessions and oversee the development of our Learning Management System (LMS).
 
-### 📚 Teaching and Community Contributions
+ 📚 Teaching and Community Contributions
 - I am actively involved in community service and have developed and delivered courses in Information Systems to enhance student engagement and learning outcomes.
 
-## Education
+Education
 - **MSc in Computer Networks and Communications**  
   Wollo University, Oct 2019 – July 2021  
   *Achievement: Very great distinction with a cGPA of 3.92/4.00.*
@@ -36,7 +36,7 @@ Feel free to reach out if you'd like to discuss e-learning solutions or cybersec
   Mekelle University, Sept 2013 – July 2017  
   *Achievement: Very great distinction with a cGPA of 3.76/4.00.*
 
-## Languages
+Languages
 - Amharic, English, Tigrigna
 
 ## Job-Related Skills
