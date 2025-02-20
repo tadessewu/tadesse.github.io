@@ -17,7 +17,7 @@ I'm currently leading initiatives to enhance online teaching and learning experi
 - I have contributed to the eSHE (e-learning for Strengthening Higher Education) initiative, collaborating with the Ministry of Education, Arizona State University, and the Mastercard Foundation.
 
 🔄 Research and Publications
-- I have published several papers in peer-reviewed journals, including works on hybrid encryption algorithms and deep learning-based emotion classification for Amharic texts.
+- I have published papers in peer-reviewed journals, including works on hybrid encryption algorithms and deep learning-based emotion classification for Amharic texts.
 
 Feel free to reach out if you'd like to discuss e-learning solutions or cybersecurity!
 
