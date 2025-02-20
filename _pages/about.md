@@ -1,49 +1,74 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "# Hello there, I'm Tadesse Birara Akele!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a Lecturer and the Director of the Electronic Learning Management Division at Wollo University. My research interests focus on e-learning, cybersecurity, and technology integration in education.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm currently leading initiatives to enhance online teaching and learning experiences for instructors and students.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Selected Experience
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### 🌟 Open Source Contributions
+- I have contributed to the eSHE (e-learning for Strengthening Higher Education) initiative, collaborating with the Ministry of Education, Arizona State University, and the Mastercard Foundation.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### 🔄 Research and Publications
+- I have published several papers in peer-reviewed journals, including works on hybrid encryption algorithms and deep learning-based emotion classification for Amharic texts.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Feel free to reach out if you'd like to discuss e-learning solutions or cybersecurity!
 
-**Markdown generator**
+## Professional Experience
+- Currently, I serve as the Electronic Learning Management Division Directorate Director at Wollo University, where I coordinate training sessions and oversee the development of our Learning Management System (LMS).
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### 📚 Teaching and Community Contributions
+- I am actively involved in community service and have developed and delivered courses in Information Systems to enhance student engagement and learning outcomes.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Education
+- **MSc in Computer Networks and Communications**  
+  Wollo University, Oct 2019 – July 2021  
+  *Achievement: Very great distinction with a cGPA of 3.92/4.00.*
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- **BSc in Information Systems**  
+  Mekelle University, Sept 2013 – July 2017  
+  *Achievement: Very great distinction with a cGPA of 3.76/4.00.*
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Languages
+- Amharic, English, Tigrigna
+
+## Job-Related Skills
+- Web Development, Hardware and Software Maintenance, Network Design, Android App Development
+
+## Coding Skills
+- C, C++, MATLAB, Python, HTML, PHP, Java
+
+## Awards/Certificates
+- System Admin Level I and II certification from Arizona State University.
+- Master Class: Foundation for Excellence in Online Teaching Certification from Arizona State University.
+- Higher Diploma Program in Teaching in Higher Education.
+- Grant Writing Training Certification.
+- Online Course Training in Machine Learning.
+- Administrative Data Management System Trainer for Kombolcha City Government Officials.
+- Training of Trainers certification from iCogAnyone Can Code Company.
+- Trainer on Harnessing AI Tools for Effective Academic Writing.
+- Advanced Programming Trainer, Dessie Special Boarding School.
+- BunnaScript Programming Trainer, Dessie Special Boarding School.
+- Office Machine Maintenance Trainer for South Wollo IT Specialists.
+- Computer Maintenance Service for Wollo University KIOT Campus.
+- Office Machine Maintenance certification from SATCOM Ethiopia.
+
+## Research Grant Awards
+- **Ethiopic Cryptography**: An Efficient Hybrid Encryption Algorithm for Reducing Cybersecurity Attacks.
+- **Designing Cybersecurity Behavior Assessment (ECBA)**: A framework for Government Employees to Mitigate Cybersecurity Attacks.
+
+## Publications
+1. Akele, T.B. et al. (2025). Ethiopic Cryptography: An Efficient Hybrid Encryption Algorithm for Reducing Cybersecurity Attack. In: Birhane, A., Shewarega, F., Bitew, M.A., Wagaw, M., Abebe Ashetehe, A. (eds) Advancement of Science and Technology. ICAST 2023. EAI/Springer Innovations in Communication and Computing. Springer, Cham.
+2. Haile, S.B., Belay, T.D., Bahiru, T.K., Akele, T.B. (2025). Deep Learning-Based Emotion Classification for Amharic Texts. In: Birhane, A., Shewarega, F., Bitew, M.A., Wagaw, M., Abebe Ashetehe, A. (eds) Advancement of Science and Technology. ICAST 2023. EAI/Springer Innovations in Communication and Computing. Springer, Cham.
+3. Viju Prakash, M., Tadesse Birara, A., Alemu Jorgie, M. (Sept 2024). Securing Network Data with a Novel Encryption Scheme. ISBN: 978-1-394-27227-3, Creative Approaches Towards Development of Computing, Multidisciplinary IT Solutions for Society, Wiley and Sons (Scopus Indexed).
+4. Bahiru, T.K., V.S. Manjula, T.B. Akele, E.A. Tesfaw, T.D. Belay. (2023). Mining Road Traffic Accident Data for Prediction of Accident Severity. 2023 International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT), Bengaluru, India, pp. 606-612.
+5. Gedefie A., Birara T., Misganaw S., Bambo G.M., Kebede S.S., Tilahun M., et al. (2023). Clinical Profiles, Epidemiological Characteristics, and Treatment Outcomes of COVID-19 Patients in North-eastern Ethiopia: A Retrospective Cohort Study. PLOS Glob Public Health 3(9): e0002285.
+6. Dr. V.S. Manjula, Tadesse Birara. Web Technology, 1st ed. India, SCIENTIFIC INTERNATIONAL PUBLISHING HOUSE, 2022, ISBN: 978-93-5625-163-2.
+7. Gietaneh, M.D., Akele, T.B. (2023). Enhancing the Hill Cipher Algorithm and Employing a One-Time Pad Key Generation Technique. Abyssinia Journal of Engineering and Computing, 3(1), 1–10.
